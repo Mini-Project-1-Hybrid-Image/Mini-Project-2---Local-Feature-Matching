@@ -28,15 +28,29 @@ The Features Matching involves several steps to match features between two image
 
 
 # Results 
-  Notre_dame 
-  Matches: 1546
-  Accuracy on 50 most confident: 94%
-  Accuracy on 100 most confident: 86%
-  Accuracy on all matches: 52%
-  
+    Notre_dame 
+    Matches: 1546
+    Accuracy on 50 most confident: 94%
+    Accuracy on 100 most confident: 86%
+    Accuracy on all matches: 52%
+![CIE427_Fall2021_Mini-Project_Debug Entity_results_notre_dame_matches jpg](https://user-images.githubusercontent.com/49596777/221070047-63f15123-a794-4e07-8179-c504b59ebe6b.jpg)
 
 
+      Mt.Rushmore 
+      Matches: 221
+      Accuracy on 50 most confident: 88%
+      Accuracy on 100 most confident: 86%
+      Accuracy on all matches: 76%
+      
+![CIE427_Fall2021_Mini-Project_Debug Entity_results_mt_rushmore_matches jpg](https://user-images.githubusercontent.com/49596777/221070158-4a90d711-5b81-409a-9066-2616a2d69a36.jpg)
 
+      * E-Gaudi :
+
+      Matches: 97
+      Accuracy on 50 most confident: 10%
+      Accuracy on all matches: 17%
+      
+![CIE427_Fall2021_Mini-Project_Debug Entity_results_GaudiMatches jpg](https://user-images.githubusercontent.com/49596777/221070254-934b10ba-4fec-43d2-8744-21263615a450.jpg)
 
 
 
