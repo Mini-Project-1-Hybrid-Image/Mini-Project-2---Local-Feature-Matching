@@ -44,13 +44,20 @@ The Features Matching involves several steps to match features between two image
       
 ![CIE427_Fall2021_Mini-Project_Debug Entity_results_mt_rushmore_matches jpg](https://user-images.githubusercontent.com/49596777/221070158-4a90d711-5b81-409a-9066-2616a2d69a36.jpg)
 
-      * E-Gaudi :
+      E-Gaudi :
 
       Matches: 97
       Accuracy on 50 most confident: 10%
       Accuracy on all matches: 17%
       
 ![CIE427_Fall2021_Mini-Project_Debug Entity_results_GaudiMatches jpg](https://user-images.githubusercontent.com/49596777/221070254-934b10ba-4fec-43d2-8744-21263615a450.jpg)
+
+# 
+From the above results :
+For notre dame pair ,the result is satisfying  and it's the highest result of all three results 
+For rushmore pair ,the accuracy is little less than notre accuracy.This may be due to the more hard corner to detect for harris algorithm 
+The E-Gauide pair result is not good but this due to the different scales of he two images as our implementation does not include scale invariance 
+
 
 
 
