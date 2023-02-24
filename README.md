@@ -1,9 +1,9 @@
-#Introduction
+# Introduction
 
 Extracting features and image matching helps in image recognition. Thus in this project,
 we apply Harris-Corner algorithm and SIFT to match different images.
 
-#Harris corner[get_interest_points()]
+# Harris corner[get_interest_points()]
 
 Algorithm
 ● Using Sobel, we calculate the x and y directions derivatives.
