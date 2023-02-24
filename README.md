@@ -54,9 +54,9 @@ The Features Matching involves several steps to match features between two image
 
 # 
 From the above results :
-For notre dame pair ,the result is satisfying  and it's the highest result of all three results 
-For rushmore pair ,the accuracy is little less than notre accuracy.This may be due to the more hard corner to detect for harris algorithm 
-The E-Gauide pair result is not good but this due to the different scales of he two images as our implementation does not include scale invariance 
+        For notre dame pair ,the result is satisfying  and it's the highest result of all three results 
+        For rushmore pair ,the accuracy is little less than notre accuracy.This may be due to the more hard corner to detect for harris algorithm 
+        The E-Gauide pair result is not good but this due to the different scales of he two images as our implementation does not include scale invariance 
 
 
 
